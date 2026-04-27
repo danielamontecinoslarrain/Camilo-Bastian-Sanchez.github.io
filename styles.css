@@ -155,7 +155,7 @@ body {
 }
 
 .cv-exp-fecha {
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: var(--color-muted);
   text-transform: uppercase;
   letter-spacing: 0.06em;
